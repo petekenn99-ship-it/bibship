@@ -1,7 +1,3 @@
-
-1
-
-Automatic Zoom
 import { useState } from "react";
 const MOCK_RACES = [
   {
